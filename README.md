@@ -80,5 +80,3 @@ The dataset is sourced from Kaggle:  [Viral Social Media Trends and Engagement A
 For detailed EDA, methodology, and modeling, see `Social_Media_Engagement_Analytics_99per.ipynb`.
 
 ---
-
-© 2025 Girish Shenoy
